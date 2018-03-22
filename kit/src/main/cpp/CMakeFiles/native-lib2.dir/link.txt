@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -dynamiclib -Wl,-headerpad_max_install_names  -o libnative-lib2.dylib -install_name @rpath/libnative-lib2.dylib CMakeFiles/native-lib2.dir/native-lib2.cpp.o 
